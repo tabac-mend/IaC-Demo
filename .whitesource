@@ -3,6 +3,7 @@
     "configMode": "AUTO",
     "configExternalURL": "",
     "projectToken": "",
+    "enableIaC": "true",
     "baseBranches": []
   },
   "checkRunSettings": {
